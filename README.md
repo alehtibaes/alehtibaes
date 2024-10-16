@@ -1,7 +1,3 @@
 ## Oi gente 👋
 
-🚀 Microsoft MCSA
-🚀 GNU/Linux LPI LPIC-2
-🚀 CompTIA LPIC-1
-🚀 Cisco CCAI/CCNA/CCNP
-🚀 Furukawa FCP
+Meu é Alexandra, tenho 18 anos e faço técnico em Redes.
