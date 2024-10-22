@@ -25,4 +25,4 @@
 
  ## ESTATÍSTICAS ✔️
 
- ![alehtibaes700 GitHub stats](https:/github-readme-stats.vercel.app/api.?username-Aa99442446&showicons=true&theme=dracula)
+ ![Alexandra GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra&show_icons=true&bg_color=00000000)
